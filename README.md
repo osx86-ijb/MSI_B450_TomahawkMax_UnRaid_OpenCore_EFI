@@ -68,8 +68,8 @@ _**This OpenCore EFI is meant to be used with UnRaid Server OS to boot macOS in 
 
 ## Documentation
 
-[How to add EFI files to USB and or HDD/SSD, and more knowledge](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/opencore-efi.html)
-[MacOS install using UnRaid](https://github.com/Pavo-IM/Hackinabox)
+- [How to add EFI files to USB and or HDD/SSD, and more knowledge](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/opencore-efi.html)
+- [MacOS install using UnRaid](https://github.com/Pavo-IM/Hackinabox)
 
 ## Badges
 
