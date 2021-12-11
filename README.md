@@ -3,15 +3,21 @@
 
 This is the OpenCore EFI files used to boot macOS on the MSI B450 Tomahawk MAX Motherboard when using UnRaid Server OS as the host OS, and macOS as the VM.
 
-![MSI B450 Tomahawk MAX Motherboard](https://asset.msi.com/resize/image/global/product/product_1_20200806161944_5f2bbd20c4441.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png)
+<p align="center">
+  <img width="460" height="300" src="https://asset.msi.com/resize/image/global/product/product_1_20200806161944_5f2bbd20c4441.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png">
+</p>
 
-+
+<p> Plus </p>
 
-![UNRAID Server OS Logo](https://i.ibb.co/mqQpzBZ/UN-stacked-light-2x.png)
+<p align="center">
+  <img width="460" height="300" src="https://i.ibb.co/mqQpzBZ/UN-stacked-light-2x.png">
+</p>
 
-=
+<p> = </p>
 
-![Pixel Heart Logo](https://i.ibb.co/syB9v3K/vecteezy-heart-pixelate-1187430.png)
+<p align="center">
+  <img width="460" height="300" src="https://i.ibb.co/syB9v3K/vecteezy-heart-pixelate-1187430.png">
+</p>
 
 ## !! ATTENTION !!
 _**Whilst this is a booting and "mostly" working EFI for this machine, do bear in mind that everyone has different hardware peripherals that they use, but for the most part, this should get it booted for you. There always could be more fine tuning done as well. This is meant to get you going in general.**_
