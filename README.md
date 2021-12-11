@@ -51,7 +51,7 @@ _**This OpenCore EFI is meant to be used with UnRaid Server OS to boot macOS in 
 ## Screenshots
 
 ![About This Mac Screenshot](https://i.ibb.co/6XwWjgj/Screen-Shot-2021-12-11-at-12-07-22-AM.png)
-![System Part I Screenshot](https://i.ibb.co/bb7ZmdL/Screen-Shot-2021-12-10-at-11-38-26-PM.png)
+![System Part I Screenshot](https://i.ibb.co/kX00QLG/Screen-Shot-2021-12-10-at-11-38-21-PM.png)
 ![System Part II Screenshot](https://i.ibb.co/bb7ZmdL/Screen-Shot-2021-12-10-at-11-38-26-PM.png)
 ![Peripherals Screenshot](https://i.ibb.co/d4JTYg2/Screen-Shot-2021-12-10-at-11-38-49-PM.png)
 ![Bootloader Screenshot](https://i.ibb.co/cNztpYx/Screen-Shot-2021-12-10-at-11-39-00-PM.png)
