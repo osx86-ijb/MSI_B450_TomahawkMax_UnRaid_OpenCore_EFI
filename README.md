@@ -27,6 +27,8 @@
 <p align="center">
   <img width="460" height="300" src="https://i.ibb.co/syB9v3K/vecteezy-heart-pixelate-1187430.png">
 </p>
+<br>
+<br>
 
 ## !! ATTENTION !!
 _**Whilst this is a booting and "mostly" working EFI for this machine, do bear in mind that everyone has different hardware peripherals that they use, but for the most part, this should get it booted for you. There always could be more fine tuning done as well. This is meant to get you going in general.**_
