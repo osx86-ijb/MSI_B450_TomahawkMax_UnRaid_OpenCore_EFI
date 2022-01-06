@@ -8,7 +8,6 @@
   <img width="460" height="300" src="https://asset.msi.com/resize/image/global/product/product_1_20200806161944_5f2bbd20c4441.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png">
 </p>
 <br>
-<br>
 <p align="center">
     plus
 </p>
