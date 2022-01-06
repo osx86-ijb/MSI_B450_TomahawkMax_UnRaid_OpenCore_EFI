@@ -1,6 +1,4 @@
-<p align="center">
-    # MSI B450 Tomahawk MAX macOS UnRaid Server OS OpenCore 0.7.5 EFI
-</p>
+# MSI B450 Tomahawk MAX macOS UnRaid Server OpenCore 0.7.5 EFI
 
 <p align="center">
     This is the OpenCore EFI files used to boot macOS on the MSI B450 Tomahawk MAX Motherboard when using UnRaid Server OS as the host OS, and macOS as the VM.
